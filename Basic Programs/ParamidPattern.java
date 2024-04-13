@@ -1,3 +1,5 @@
+// Dated------ 11/01/2024 ------>
+
 public class ParamidPattern {
     public static void main(String[] args) {
         int term = 6;
